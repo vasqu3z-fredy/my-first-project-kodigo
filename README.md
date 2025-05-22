@@ -1,2 +1,2 @@
-# my-first-proyect-kodigo
-Proyecto fronted 1
+# my-first-project-kodigo
+Proyecto frontend 1
